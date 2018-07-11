@@ -17,9 +17,9 @@ from datetime import datetime
 print("TasmanianSG version: {0:s}".format(TasmanianSG.__version__))
 print("TasmanianSG license: {0:s}".format(TasmanianSG.__license__))
 
-grid  = TasmanianSG.TasmanianSparseGrid()
-grid1 = TasmanianSG.TasmanianSparseGrid()
-grid2 = TasmanianSG.TasmanianSparseGrid()
+#grid  = TasmanianSG.TasmanianSparseGrid()
+#grid1 = TasmanianSG.TasmanianSparseGrid()
+#grid2 = TasmanianSG.TasmanianSparseGrid()
 
 #############################################################################
 
